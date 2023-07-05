@@ -1,0 +1,41 @@
+C:\Users\EMRE\Desktop\C# program\WordÇalışma\WordÇalışma\bin\Debug\WordÇalışma.exe.config
+C:\Users\EMRE\Desktop\C# program\WordÇalışma\WordÇalışma\bin\Debug\WordÇalışma.exe
+C:\Users\EMRE\Desktop\C# program\WordÇalışma\WordÇalışma\bin\Debug\WordÇalışma.pdb
+C:\Users\EMRE\Desktop\C# program\WordÇalışma\WordÇalışma\obj\Debug\WordÇalışma.csprojAssemblyReference.cache
+C:\Users\EMRE\Desktop\C# program\WordÇalışma\WordÇalışma\obj\Debug\WordÇalışma.Form1.resources
+C:\Users\EMRE\Desktop\C# program\WordÇalışma\WordÇalışma\obj\Debug\WordÇalışma.Properties.Resources.resources
+C:\Users\EMRE\Desktop\C# program\WordÇalışma\WordÇalışma\obj\Debug\WordÇalışma.csproj.GenerateResource.cache
+C:\Users\EMRE\Desktop\C# program\WordÇalışma\WordÇalışma\obj\Debug\WordÇalışma.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\Desktop\C# program\WordÇalışma\WordÇalışma\obj\Debug\WordÇalışma.exe
+C:\Users\EMRE\Desktop\C# program\WordÇalışma\WordÇalışma\obj\Debug\WordÇalışma.pdb
+C:\Users\EMRE\Desktop\C# program\WordÇalışma\WordÇalışma\obj\Debug\WordÇalışma.Form3.resources
+C:\Users\EMRE\Desktop\C# program\WordÇalışma\WordÇalışma\obj\Debug\WordÇalışma.Form2.resources
+C:\Users\EMRE\Desktop\C# program\WordÇalışma\WordÇalışma\obj\Debug\WordÇalışma.Form4.resources
+\\192.168.1.1\Emre (at sda1)\Emre\C# program\WordÇalışma\WordÇalışma\bin\Debug\WordÇalışma.exe.config
+\\192.168.1.1\Emre (at sda1)\Emre\C# program\WordÇalışma\WordÇalışma\bin\Debug\WordÇalışma.exe
+\\192.168.1.1\Emre (at sda1)\Emre\C# program\WordÇalışma\WordÇalışma\bin\Debug\WordÇalışma.pdb
+\\192.168.1.1\Emre (at sda1)\Emre\C# program\WordÇalışma\WordÇalışma\obj\Debug\WordÇalışma.Form1.resources
+\\192.168.1.1\Emre (at sda1)\Emre\C# program\WordÇalışma\WordÇalışma\obj\Debug\WordÇalışma.Form2.resources
+\\192.168.1.1\Emre (at sda1)\Emre\C# program\WordÇalışma\WordÇalışma\obj\Debug\WordÇalışma.Form3.resources
+\\192.168.1.1\Emre (at sda1)\Emre\C# program\WordÇalışma\WordÇalışma\obj\Debug\WordÇalışma.Form4.resources
+\\192.168.1.1\Emre (at sda1)\Emre\C# program\WordÇalışma\WordÇalışma\obj\Debug\WordÇalışma.Properties.Resources.resources
+\\192.168.1.1\Emre (at sda1)\Emre\C# program\WordÇalışma\WordÇalışma\obj\Debug\WordÇalışma.csproj.GenerateResource.cache
+\\192.168.1.1\Emre (at sda1)\Emre\C# program\WordÇalışma\WordÇalışma\obj\Debug\WordÇalışma.csproj.CoreCompileInputs.cache
+\\192.168.1.1\Emre (at sda1)\Emre\C# program\WordÇalışma\WordÇalışma\obj\Debug\WordÇalışma.exe
+\\192.168.1.1\Emre (at sda1)\Emre\C# program\WordÇalışma\WordÇalışma\obj\Debug\WordÇalışma.pdb
+\\192.168.1.1\Emre (at sda1)\Emre\C# program\WordÇalışma\WordÇalışma\obj\Debug\WordÇalışma.csproj.AssemblyReference.cache
+\\192.168.1.1\Emre (at sda1)\Emre\C# program\WordÇalışma\WordÇalışma\obj\Debug\WordÇalışma.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Yeni Projeler\WordÇalışma\WordÇalışma\bin\Debug\WordÇalışma.exe.config
+C:\Users\user\Desktop\Yeni Projeler\WordÇalışma\WordÇalışma\bin\Debug\WordÇalışma.exe
+C:\Users\user\Desktop\Yeni Projeler\WordÇalışma\WordÇalışma\bin\Debug\WordÇalışma.pdb
+C:\Users\user\Desktop\Yeni Projeler\WordÇalışma\WordÇalışma\obj\Debug\WordÇalışma.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Yeni Projeler\WordÇalışma\WordÇalışma\obj\Debug\WordÇalışma.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Yeni Projeler\WordÇalışma\WordÇalışma\obj\Debug\WordÇalışma.Form1.resources
+C:\Users\user\Desktop\Yeni Projeler\WordÇalışma\WordÇalışma\obj\Debug\WordÇalışma.Form2.resources
+C:\Users\user\Desktop\Yeni Projeler\WordÇalışma\WordÇalışma\obj\Debug\WordÇalışma.Form3.resources
+C:\Users\user\Desktop\Yeni Projeler\WordÇalışma\WordÇalışma\obj\Debug\WordÇalışma.Form4.resources
+C:\Users\user\Desktop\Yeni Projeler\WordÇalışma\WordÇalışma\obj\Debug\WordÇalışma.Properties.Resources.resources
+C:\Users\user\Desktop\Yeni Projeler\WordÇalışma\WordÇalışma\obj\Debug\WordÇalışma.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Yeni Projeler\WordÇalışma\WordÇalışma\obj\Debug\WordÇalışma.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Yeni Projeler\WordÇalışma\WordÇalışma\obj\Debug\WordÇalışma.exe
+C:\Users\user\Desktop\Yeni Projeler\WordÇalışma\WordÇalışma\obj\Debug\WordÇalışma.pdb
